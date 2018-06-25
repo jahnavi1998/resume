@@ -1,0 +1,54 @@
+{
+  "basics":{
+    "name":"jahnavi",
+    "email":"jahanvijanu171998@gmail.com",
+    "mobile":"8331063606"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation"
+  },
+  "education":[
+    {
+      "degree":"btech",
+      "institute":"PSCMR",
+      "data":["2015-19","71%"]
+    },
+    {
+      "degree":"Intermediate",
+      "institute":"NRI",
+      "data":["2013-15","91%"]
+    },
+    {
+      "degree":"SSC",
+      "institute":"Ravindra Bharathi",
+      "data":["2013","9.0"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"Awarded as <b>1<sup>st</sup>prize</b> in <q>self-Defence</q>"
+    },
+    {
+      "name":"Got <strong>1<sup>st</sup>prize</strong> for <q> PPT Presentation</q>"
+    }
+  ],
+  "technicalskills":[
+    {
+      "name":"programming languages:",
+      "data":["c","java","python","php","c++","javascript"]
+    },
+
+    {
+      "name":"data bases:",
+      "data":["mysql","oracle"]
+    },
+    {
+      "name":"web technologies:",
+      "data":["HTML","CSS","Javascriprt"]
+    },
+    {
+      "name":"libraries and frameworks:",
+      "data":["jQuery","codeigniter"]
+    }
+  ]
+}
